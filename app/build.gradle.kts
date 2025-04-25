@@ -47,6 +47,14 @@ dependencies {
     implementation(platform (libs.firebase.bom))
     //FireBase Crashlytics
     implementation(libs.firebase.crashlytics)
+    //Navigation Compose
+    implementation(libs.androidx.navigation.compose)
+    //FireBase Auth
+    implementation(libs.firebase.auth)
+    //Firebase FireStore
+    implementation(libs.firebase.firestore)
+    //Icon Extended
+    implementation ("androidx.compose.material:material-icons-extended:1.7.8")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
