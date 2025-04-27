@@ -55,6 +55,7 @@ dependencies {
     implementation(libs.firebase.firestore)
     //Icon Extended
     implementation ("androidx.compose.material:material-icons-extended:1.7.8")
+    implementation ("com.github.bumptech.glide:compose:1.0.0-beta01")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
