@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "647138106793",
+    "firebase_url": "https://kotlinlite-default-rtdb.firebaseio.com",
     "project_id": "kotlinlite",
     "storage_bucket": "kotlinlite.firebasestorage.app"
   },
